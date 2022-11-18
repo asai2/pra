@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+/*
+img {
+    transform: rotate(10deg);
+  }
+*/
+a{
+    color :blue;
+    width : 50px;
+}
+
+a1{
+    color: red;
+}
+
+a2{
+    color: blue;
+}
+
+a3{
+    color: green;
+}
+
+button{
+    color: black;
+    height: 50px;
+    width: 50px;
+
+}
+
+strong{
+    height:300px;
+    width: 300px;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+}
+
+body{
+    background-image:url("k.png");
+    background-size: cover;
+}
