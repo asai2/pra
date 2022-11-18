@@ -2,6 +2,8 @@ var cook;       //cookieデータを格納する変数
 var cStart,cEnd;  //訪問回数部分を切取る為の位置を格納
 var cnt;        //訪問回数を格納
 
+// github
+
 const b0=document.getElementById('btn0');
 const b1=document.getElementById('btn1');
 const b2=document.getElementById('btn2');
